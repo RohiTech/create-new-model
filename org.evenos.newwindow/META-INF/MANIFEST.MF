@@ -7,3 +7,4 @@ Automatic-Module-Name: org.evenos.newwindow
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Require-Bundle: org.adempiere.base;bundle-version="9.0.0",
  org.adempiere.plugin.utils;bundle-version="9.0.0"
+Service-Component: OSGI-INF/*.xml
